@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.log
+.venv/
+ENV/
+env/
+.vscode/
+.ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
+.DS_Store
+Thumbs.db
